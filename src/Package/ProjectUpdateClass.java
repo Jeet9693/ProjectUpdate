@@ -6,6 +6,7 @@ public class ProjectUpdateClass {
 		
 		System.out.println("First Commit");
 		System.out.println("Second Commit");
+		System.out.println("Thisrd Commit");
 
 	}
 
